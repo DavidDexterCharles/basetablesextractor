@@ -10,4 +10,4 @@ that had span more than 31000 lines of code, the database itself had huge amount
 tables, so extracting the tables from the text file of queries would have ensured, that 
 i got the nessecary relevant tables i needed. Generaly the script pulls out base tables
 and look up tables from a random mess of querries stored in a text file, and was simply a quick solution.
-to try it just place your queries in the quers.txt file and run the script.
+to try it just place your queries in the quers.txt file and run the script.Output would be in basetable.txt.
