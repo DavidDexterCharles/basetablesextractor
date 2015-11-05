@@ -1,6 +1,4 @@
 The noteable errors are the alias and
 i havent dealt with the commit statement,
 also i stored everything in one big list, which 
-isnt the best approach but quick fix was the priority
-they did not care how i did it.
-
+isnt the best approach but quick fix was the priority.
