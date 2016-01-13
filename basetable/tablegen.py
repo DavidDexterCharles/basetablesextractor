@@ -1,6 +1,5 @@
-from collections import OrderedDict
 
-thefile= open('quers2.txt', 'r')
+thefile= open('quers.txt', 'r')
 #thefile= open('ApplicationsOnline.sql', 'r')
 tableset={}
 x=0
